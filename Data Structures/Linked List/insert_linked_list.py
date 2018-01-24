@@ -1,5 +1,6 @@
 # Insert a node at the Tail of a Linked List
 
+# Node is defined as
 class Node(object):
 
     def __init__(self, data=None, next_node=None):
